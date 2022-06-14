@@ -9,7 +9,7 @@ histórico, estado da arte, benefícios e riscos
 1. Impressão geral: considerando os três subtópicos, o
 que o aluno entende por inteligência artificial, como
 ele vê o caminho que a área de IA Seguiu dasde os
-Seus prinórdios ate hoje e como ele vê a área de IA nos
+Seus primórdios ate hoje e como ele vê a área de IA nos
 dias de hoje.<br>
 2. Resuma as discussões sobre cada tema do tópico discutido em aula e complemente com pesquisa em livros, 
 artigos, sites, etc. Tem algum ponto importante sobre o tópico que não foi tratado em aula? Qual é? Qual é a fonte?<br>
