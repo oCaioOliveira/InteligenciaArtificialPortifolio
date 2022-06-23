@@ -11,7 +11,7 @@ que o aluno entende por inteligência artificial, como
 ele vê o caminho que a área de IA Seguiu dasde os
 Seus primórdios ate hoje e como ele vê a área de IA nos
 dias de hoje.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inteligência Artificial é uma máquina que age de forma racional, que aprende e evolui/regride com o avançar de um treinamento, com o objetivo de receber uma nova situação e conseguir performar bem. A IA veio caminhando devagar desde quando a pesquisa nessa área se iniciou, mas 
 2. Resuma as discussões sobre cada tema do tópico discutido em aula e complemente com pesquisa em livros, 
 artigos, sites, etc. Tem algum ponto importante sobre o tópico que não foi tratado em aula? Qual é? Qual é a fonte?<br>
 3. Responda as seguintes perguntas:<br>
