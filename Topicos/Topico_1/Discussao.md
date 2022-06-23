@@ -14,7 +14,7 @@ dias de hoje.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inteligência Artificial é uma máquina que age de forma racional, que aprende e evolui/regride com o avanço de um treinamento, com o objetivo de receber uma nova situação e conseguir performar racionalmente. A IA começou caminhando devagar desde quando a pesquisa nessa área se iniciou, mas ao longo do tempo e com o avanço nos estudos começaram a dar apoio, acreditar e incentivar mais essa ferramente, dessa forma ouve um boom nos recentes anos e cada vez mais áreas foram atingidas por essa tecnologia, crescendo de forma exponencial nos últimos anos e ficando cada vez mais valorizada, já que tendo uma IA do lado de uma empresa pode aumentar seu potencial, tendo em vistas as mudanças que as IAs já afetaram na economia. Hoje, com um pensamento cético, o potencial real da IA é enorme, apenas precisamos usar de forma correta, porém devemos ter cuidado com as expectativas muito altas que criamos com esse potencial.<br><br>
 2. Resuma as discussões sobre cada tema do tópico discutido em aula e complemente com pesquisa em livros, 
 artigos, sites, etc. Tem algum ponto importante sobre o tópico que não foi tratado em aula? Qual é? Qual é a fonte?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alou<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Inteligência Artificial <br><br>
 3. Responda as seguintes perguntas:<br>
   3.1. O que é inteligência?<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo o próprio dicionário inteligência é a faculdade de conhecer, compreender e aprender, ou seja, é a capacidade de compreender e resolver novos problemas ou conflitos, conseguindo se adaptar em novas situações.<br><br>
